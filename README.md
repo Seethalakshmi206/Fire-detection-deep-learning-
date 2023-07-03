@@ -1,4 +1,4 @@
-# Fire-detection-deep-learning-  fire detection 
+# Fire-detection-System 
 
 Front end - HTML, CSS, flask
 
